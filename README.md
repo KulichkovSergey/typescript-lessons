@@ -1,1 +1,1 @@
-# typescript-lessons
+Homework for TypeScript classes
